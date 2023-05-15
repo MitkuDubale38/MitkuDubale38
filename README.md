@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mitku Dubale
 - 👀 I’m interested in ... Software Development 
-- 🌱 I have obtained my BSC degree in... Computer Science
+- 🌱 I have BSC degree in Computer Science
 - 💞️ I’m looking to collaborate on ... Software Development Projects
 - 📫 How to reach me ... Email: mitkudubale3864@gmail.com
 
