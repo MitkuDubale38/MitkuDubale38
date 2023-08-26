@@ -1,7 +1,7 @@
 <p align="center">
 <img alt="loficity" width="800px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
 </p>
-<p align="center">
+<p align="left">
 <br/>
 <a href="https://www.linkedin.com/in/mitku-dubale-9b591919b">
   <img alt="Mitku Dubale's LinkdeIN" width="40px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
@@ -19,6 +19,8 @@
 
 ```yaml
 name: Mitku Dubale Haile
+Email: mitkudubale3864@gmail.com,
+phone_number: +251938642772
 located_in: [Addis Abeba, Ethiopia]
 from: [Ethiopia]
 Currently Working at: Ethiopian Airlines
