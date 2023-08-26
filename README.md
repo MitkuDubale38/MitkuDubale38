@@ -22,10 +22,10 @@ name: Mitku Dubale Haile
 located_in: [Addis Abeba, Ethiopia]
 from: [Ethiopia]
 Currently Working at: Ethiopian Airlines
-job: Developer
+job: Software Developer
 education: ["Bachelor's in Computer Science"]
-technical_background: ["Application Development", "Web Technologies"]
-currently_learning: ["Flutter", "Nest JS Backend"], 
+technical_background: ["Application Development", "Web Development"]
+currently_learning: ["Flutter", "NestJS"], 
 lets_talk_about: ["Flutter", "Python", "Node.js", "Django", "React.js", "NestJS",]
 ```
 
