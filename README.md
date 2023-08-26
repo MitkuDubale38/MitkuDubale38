@@ -31,6 +31,4 @@ currently_learning: ["Flutter", "NestJS"],
 lets_talk_about: ["Flutter", "Python", "Node.js", "Django", "React.js", "NestJS",]
 ```
 
-<div align=center>
-  <img  height=100px width= 100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</div>
+
