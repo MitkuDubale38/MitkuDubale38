@@ -3,13 +3,12 @@
 </p>
 <p align="left">
 <br/>
-#### 📫 How to reach me:
-[<img src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" width="2.6%"/>](https://www.linkedin.com/in/mitku-dubale-9b591919b)/>
+📫 How to reach me:
+<img src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" width="2.6%"/>https://www.linkedin.com/in/mitku-dubale-9b591919b/>
 <br>
   
 </p>
 
- ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord) 
   
 
 ```yaml
