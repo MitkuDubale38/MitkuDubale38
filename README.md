@@ -30,5 +30,5 @@ technical_background: ["Application Development", "Web Development"]
 currently_learning: ["Flutter", "NestJS"], 
 lets_talk_about: ["Flutter", "Python", "Node.js", "Django", "React.js", "NestJS",]
 ```
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=MitkuDubale38&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
