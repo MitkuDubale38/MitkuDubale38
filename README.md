@@ -4,16 +4,13 @@
 <p align="left">
 <br/>
 #### 📫 How to reach me:
-<img src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" width="2.6%"/>(https://www.linkedin.com/in/mitku-dubale-9b591919b)]/>
+[<img src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" width="2.6%"/>](https://www.linkedin.com/in/mitku-dubale-9b591919b)/>
 <br>
   
 </p>
 
  ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord) 
   
-
-
-
 
 ```yaml
 name: Mitku Dubale Haile
@@ -34,13 +31,14 @@ lets_talk_about: ["Flutter", "Python", "Node.js", "Django", "React.js", "NestJS"
 
 
 #### Languages and Tools፡ <br />
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nestjs/nestjs.png"></code>
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
