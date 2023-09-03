@@ -5,7 +5,6 @@
 <br/>
 📫 How to reach me: <br/>
 <p><a href="[https://www.Youtube.com/](https://www.linkedin.com/in/mitku-dubale-9b591919b)"><img src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" width="2.6%"></a></p>
-<br>
 </p>
 
 ```yaml
