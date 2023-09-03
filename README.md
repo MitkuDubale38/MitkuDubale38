@@ -3,9 +3,6 @@
 </p>
 <p align="left">
 <br/>
-📫 How to reach me: <br/>
-<p><a href="[https://www.Youtube.com/](https://www.linkedin.com/in/mitku-dubale-9b591919b)"><img src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" width="2.6%"></a></p>
-</p>
 
 ```yaml
 name: Mitku Dubale Haile
@@ -40,3 +37,5 @@ lets_talk_about: ["Flutter", "Python", "Node.js", "Django", "React.js", "NestJS"
   
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<br/>
+<p><a href="[https://www.Youtube.com/](https://www.linkedin.com/in/mitku-dubale-9b591919b)"><img src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" width="2.6%"></a></p>
