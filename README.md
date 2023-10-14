@@ -16,7 +16,7 @@ education: ["Bachelor's in Computer Science"]
 technical_background: ["Application Development", "Web Development"]
 currently_learning: ["Flutter", "NestJS"], 
 lets_talk_about: ["Flutter", "Python", "Node.js", "Django", "React.js", "NestJS",]
-```
+``` 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MitkuDubale38&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MitkuDubale38&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MitkuDubale38&layout=donut-vertical&theme=radical&no-bg=true)](https://github.com/MitkuDubale38/github-readme-stats)
