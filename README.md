@@ -5,7 +5,7 @@
 <br/>
 
 ```yaml
-name: Mitku Dubale Haile
+name: Mitku Dubale
 Email: mitkudubale3864@gmail.com,
 located_in: [Addis Abeba, Ethiopia]
 from: [Ethiopia]
