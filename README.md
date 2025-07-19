@@ -7,10 +7,8 @@
 ```yaml
 name: Mitku Dubale Haile
 Email: mitkudubale3864@gmail.com,
-phone_number: +251938642772
 located_in: [Addis Abeba, Ethiopia]
 from: [Ethiopia]
-Currently Working at: Ethiopian Airlines
 job: Software Developer
 education: ["Bachelor's in Computer Science"]
 technical_background: ["Application Development", "Web Development"]
